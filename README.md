@@ -1,2 +1,2 @@
-# htmx-and-django
-Try htmx with django
+# HTMX And Django
+CRUD Blog Application using HTMX and Django
